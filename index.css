@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: "Happy Monkey", cursive;
+  font-family: "Work Sans", Arial, Helvetica, sans-serif;
   background-color: #ff8ab9;
   color: #ffffff;
 }
@@ -10,10 +10,10 @@ h2,
 h3,
 h4,
 p {
-  text-shadow: 0 0 1px black;
+  text-shadow: 0 0 10px black;
 }
 
-#bff-img {
+#nina-img {
   width: 150px;
   border-radius: 50%;
   border: 6px solid #efb0c9;
