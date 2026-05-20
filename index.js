@@ -1,6 +1,6 @@
 document.addEventListener("click", (e) => {
   const heart = document.createElement("span");
-  heart.textContent = "🎉";
+  heart.textContent = String.fromCodePoint(0x1F389)
   heart.style.position = "fixed";
   heart.style.left = e.clientX + "px";
   heart.style.top = e.clientY + "px";
